@@ -4,6 +4,9 @@
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
 
+  <remote name="cvpcs"
+           fetch="git://github.com/cvpcs/" />
+
   <remote  name="drod"
            fetch="git://github.com/drod2169/" />
 
